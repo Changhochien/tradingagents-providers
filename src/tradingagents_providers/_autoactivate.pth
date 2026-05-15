@@ -1,0 +1,1 @@
+import tradingagents_providers.bootstrap as _tap_bootstrap; _tap_bootstrap.apply_bootstrap()
